@@ -25,7 +25,7 @@ Estructura del Proyecto
 Instalación
 1.	Clonar el repositorio: 
 Bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/suescunmanu/Quind_test.git
 Usa el código con precaución.
 2.	Crear un entorno virtual: 
 Bash
