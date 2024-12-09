@@ -1,4 +1,5 @@
 Análisis de Datos de Alquiler de Películas
+
 Introducción
 
 Este proyecto tiene como propósito crear una aplicación que nos ayude a analizar datos sobre el alquiler de películas. Usamos Python y Spark para trabajar con los datos: los extraemos, los transformamos y los guardamos en un formato más fácil de analizar después.
@@ -57,6 +58,7 @@ Diseño del Proyecto
 •	Funciones auxiliares: Incluimos funciones simples para tareas repetitivas, como conectarse a la base de datos o guardar archivos.
 
 Cómo Contribuir
+
 Si quieres aportar al proyecto:
 1.	Realizar un "fork" del repositorio.
 2.	Crear una nueva rama para tus cambios.
